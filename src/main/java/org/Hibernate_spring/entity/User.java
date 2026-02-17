@@ -1,6 +1,5 @@
 package org.Hibernate_spring.entity;
 
-
 import javax.persistence.*;
 
 @Entity

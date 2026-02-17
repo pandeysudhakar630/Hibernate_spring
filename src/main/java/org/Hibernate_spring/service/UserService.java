@@ -1,11 +1,9 @@
 package org.Hibernate_spring.service;
 
-
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.Hibernate_spring.repository.UserRepository;
 import org.Hibernate_spring.entity.User;
-
 import java.util.List;
 
 @Service
